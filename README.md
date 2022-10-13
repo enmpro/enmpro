@@ -7,7 +7,7 @@
 * Goals are to become a Data Scientist and maybe a Frontend Developer
 
 # GitHub stats
-[![Enmpro's GitHub stats](https://github-readme-stats.vercel.app/api?username=enmpro)](https://github.com/anuraghazra/github-readme-stats&hide_rank=true)
+[![Enmpro's GitHub stats](https://github-readme-stats.vercel.app/api?username=enmpro)](https://github.com/anuraghazra/github-readme-stats&hide_rank=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enmpro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
