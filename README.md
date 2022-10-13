@@ -6,6 +6,8 @@
 * Currently working to become more versed in HTML/CSS/JS
 * Goals are to become a Data Scientist and maybe a Frontend Developer
 
+## GitHub stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **enmpro/enmpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
