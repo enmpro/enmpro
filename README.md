@@ -1,5 +1,9 @@
 # Hi there, I'm Enmanuel Proano 👋
 
+* I am a current computer programming student
+* I have used multiple languages like C++, Python, Java
+* I wish to be more proficient in UI and UX Design
+* Goals are to become more versed in HTML/CSS/JS
 
 
 <!--
