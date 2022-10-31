@@ -4,7 +4,7 @@
 * I have used multiple languages like C++, Python, Java
 * I wish to be more proficient in UI and UX Design
 * Currently working to become more versed in HTML/CSS/JS
-* Goals are to become a Data Scientist and maybe a Frontend Developer
+* Goals are to become a Data Scientist and maybe a Frontend/Fullstack Developer
 
 # GitHub stats
 [![Enmpro's GitHub stats](https://github-readme-stats.vercel.app/api?username=enmpro&hide_rank=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
