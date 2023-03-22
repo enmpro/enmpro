@@ -17,8 +17,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=enmpro&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=enmpro&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # Contact
 * [LinkedIn](https://www.linkedin.com/in/enmanuel-proano-2594a6233/)
