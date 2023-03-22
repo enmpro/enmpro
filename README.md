@@ -11,6 +11,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enmpro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://github-readme-stats.vercel.app/api?username=TwigJL&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TwigJL&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TwigJL&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 # Contact
 * [LinkedIn](https://www.linkedin.com/in/enmanuel-proano-2594a6233/)
 
